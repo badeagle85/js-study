@@ -1,0 +1,80 @@
+{
+  "settings": {
+    "pass_score": 70,
+    "max_retry": 1
+  },
+  "weeks": [
+    {
+      "week": 1,
+      "category": "변수와 자료형",
+      "days": [
+        { "day": 1, "type": "study", "topic": "변수 (let, const)와 변수 명명 규칙" },
+        { "day": 2, "type": "study", "topic": "숫자형과 산술 연산자" },
+        { "day": 3, "type": "study", "topic": "문자열 기초와 문자열 연결" },
+        { "day": 4, "type": "study", "topic": "불리언과 null, undefined" },
+        { "day": 5, "type": "study", "topic": "자료형 변환과 typeof 연산자" },
+        { "day": 6, "type": "exam", "topic": "1주차 평가: 변수와 자료형" }
+      ]
+    },
+    {
+      "week": 2,
+      "category": "조건문",
+      "days": [
+        { "day": 1, "type": "study", "topic": "비교 연산자 (===, !==, >, <, >=, <=)" },
+        { "day": 2, "type": "study", "topic": "if / else 조건문" },
+        { "day": 3, "type": "study", "topic": "else if와 중첩 조건문" },
+        { "day": 4, "type": "study", "topic": "논리 연산자 (&&, ||, !)" },
+        { "day": 5, "type": "study", "topic": "삼항 연산자와 switch 문" },
+        { "day": 6, "type": "exam", "topic": "2주차 평가: 조건문" }
+      ]
+    },
+    {
+      "week": 3,
+      "category": "반복문",
+      "days": [
+        { "day": 1, "type": "study", "topic": "for 반복문 기초" },
+        { "day": 2, "type": "study", "topic": "while과 do...while 반복문" },
+        { "day": 3, "type": "study", "topic": "break와 continue" },
+        { "day": 4, "type": "study", "topic": "중첩 반복문" },
+        { "day": 5, "type": "study", "topic": "반복문 활용 패턴 (누적, 카운팅, 검색)" },
+        { "day": 6, "type": "exam", "topic": "3주차 평가: 반복문" }
+      ]
+    },
+    {
+      "week": 4,
+      "category": "함수",
+      "days": [
+        { "day": 1, "type": "study", "topic": "함수 선언과 호출" },
+        { "day": 2, "type": "study", "topic": "매개변수, 인자, 기본값" },
+        { "day": 3, "type": "study", "topic": "반환값 (return)과 활용" },
+        { "day": 4, "type": "study", "topic": "화살표 함수 (Arrow Function)" },
+        { "day": 5, "type": "study", "topic": "스코프 (전역, 지역, 블록)" },
+        { "day": 6, "type": "exam", "topic": "4주차 평가: 함수" }
+      ]
+    },
+    {
+      "week": 5,
+      "category": "배열",
+      "days": [
+        { "day": 1, "type": "study", "topic": "배열 생성과 접근 (인덱스, length)" },
+        { "day": 2, "type": "study", "topic": "배열 수정 (push, pop, shift, unshift, splice)" },
+        { "day": 3, "type": "study", "topic": "배열 순회 (for, for...of, forEach)" },
+        { "day": 4, "type": "study", "topic": "배열 메서드 (map, filter)" },
+        { "day": 5, "type": "study", "topic": "배열 메서드 (reduce, find, includes, sort)" },
+        { "day": 6, "type": "exam", "topic": "5주차 평가: 배열" }
+      ]
+    },
+    {
+      "week": 6,
+      "category": "문자열과 객체",
+      "days": [
+        { "day": 1, "type": "study", "topic": "문자열 메서드 (length, indexOf, slice, substring)" },
+        { "day": 2, "type": "study", "topic": "문자열 메서드 (split, join, replace, trim)" },
+        { "day": 3, "type": "study", "topic": "템플릿 리터럴과 정규표현식 기초" },
+        { "day": 4, "type": "study", "topic": "객체 생성과 접근 (점 표기법, 대괄호 표기법)" },
+        { "day": 5, "type": "study", "topic": "Object.keys, values, entries와 객체 순회" },
+        { "day": 6, "type": "exam", "topic": "6주차 평가: 문자열과 객체" }
+      ]
+    }
+  ]
+}
